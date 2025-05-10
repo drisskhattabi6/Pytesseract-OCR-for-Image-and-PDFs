@@ -9,3 +9,13 @@ The project showcases:
 * How to apply OCR to **images** (JPEG, PNG, etc.)
 * How to convert **PDFs** to images and extract text using OCR
 * Code examples implemented in Jupyter Notebooks
+
+## Example 
+
+Source text : 
+
+![](imgs/easy_text.png)
+
+Detected Image : 
+
+![](imgs/text_with_boxes.jpg)
